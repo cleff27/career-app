@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/career-app/static/css/main.840718e6.css",
+    "main.js": "/career-app/static/js/main.c81e4ca4.js",
+    "index.html": "/career-app/index.html",
+    "main.840718e6.css.map": "/career-app/static/css/main.840718e6.css.map",
+    "main.c81e4ca4.js.map": "/career-app/static/js/main.c81e4ca4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.840718e6.css",
+    "static/js/main.c81e4ca4.js"
+  ]
+}
