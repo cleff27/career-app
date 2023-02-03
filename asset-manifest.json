@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/career-app/static/css/main.840718e6.css",
-    "main.js": "/career-app/static/js/main.c81e4ca4.js",
+    "main.css": "/career-app/static/css/main.3d3dcbcf.css",
+    "main.js": "/career-app/static/js/main.16e35be0.js",
     "index.html": "/career-app/index.html",
-    "main.840718e6.css.map": "/career-app/static/css/main.840718e6.css.map",
-    "main.c81e4ca4.js.map": "/career-app/static/js/main.c81e4ca4.js.map"
+    "main.3d3dcbcf.css.map": "/career-app/static/css/main.3d3dcbcf.css.map",
+    "main.16e35be0.js.map": "/career-app/static/js/main.16e35be0.js.map"
   },
   "entrypoints": [
-    "static/css/main.840718e6.css",
-    "static/js/main.c81e4ca4.js"
+    "static/css/main.3d3dcbcf.css",
+    "static/js/main.16e35be0.js"
   ]
 }
